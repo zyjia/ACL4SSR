@@ -1,8 +1,10 @@
 # 本地/局域网地址
+
 IP-CIDR,157.193.20.0/24,no-resolve
 
 
 # 自己域名
+
 DOMAIN-SUFFIX,glms.tk
 DOMAIN-SUFFIX,glms.cf
 DOMAIN-SUFFIX,glms.gq
@@ -19,6 +21,7 @@ DOMAIN-SUFFIX,zyjia.pp.ua
 DOMAIN-SUFFIX,glms.pp.ua
 DOMAIN-SUFFIX,zyjia.cloudns.org 
 DOMAIN-SUFFIX,nn.ci
+
 # 直连规则
 
 DOMAIN-SUFFIX,zuoyebang.com
