@@ -24,12 +24,6 @@ IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
-# 国内IP
-IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
-IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
-IP-CIDR,27.36.0.0/14,DIRECT,no-resolve
-IP-CIDR,183.238.66.0/24,DIRECT,no-resolve
-
 # 自己域名
 DOMAIN-SUFFIX,glms.tk
 DOMAIN-SUFFIX,glms.cf
