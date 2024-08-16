@@ -3,6 +3,9 @@
 DOMAIN-SUFFIX,revanced.net
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,poe.com
+
+# 海外
+
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,orz-7.com
