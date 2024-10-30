@@ -34,7 +34,7 @@ unified-delay: false
 # TCP 并发连接所有 IP, 将使用最快握手的 TCP
 tcp-concurrent: true
 # RESTful API 监听地址
-external-controller: 0.0.0.0:9090
+external-controller: '0.0.0.0:9090'
 # API 的访问密钥
 secret: '123456'
 # 配置 WEB UI 目录，使用 http://{{external-controller}}/ui 访问
